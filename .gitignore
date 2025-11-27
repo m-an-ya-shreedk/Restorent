@@ -9,7 +9,7 @@ yarn-debug.log*
 yarn-error.log*
 
 # Runtime data
-pids/
+pids/mn
 *.pid
 *.seed
 
